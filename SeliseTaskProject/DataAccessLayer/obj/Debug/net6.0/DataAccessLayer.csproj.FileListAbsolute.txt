@@ -1,0 +1,12 @@
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Rumi Projrcts\SeliseTask\SeliseTaskProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
